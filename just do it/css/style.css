@@ -1,0 +1,78 @@
+
+body {
+    margin-left: 100px;
+    height: auto;
+    width: 1000px;
+    background-color: rgb(224, 186, 184);
+}
+/* Пример 1 */
+.container1 h1 {
+    color: rgb(80, 48, 26);
+}
+
+.container1 p {
+    color: rgb(80, 48, 26);
+    font-size: 20px;
+}
+
+.fon {
+    height: 300px;
+}
+
+/* Пример 2 */
+.container2 h1 {
+    color: rgb(80, 48, 26);
+}
+
+.container2 p {
+    color: rgb(80, 48, 26);
+    font-size: 20px;
+    text-transform: unset;
+}
+
+#button1 {
+    height: 30px;
+    width: 120px;
+    font-size: 15px;
+    border: 2px solid #efefef;
+}
+
+#unvisible {
+    opacity: 0;
+}
+
+/* Пример 3 */
+.container3 h1 {
+    color: rgb(80, 48, 26);
+}
+
+.container3 p {
+    color: rgb(80, 48, 26);
+    font-size: 20px;
+}
+
+#button2 {
+    height: 30px;
+    width: 120px;
+    font-size: 15px;
+    border: 2px solid #efefef;
+}
+
+#unvisible2 {
+    opacity: 0;
+}
+
+/* Пример 3 */
+.container4 h1 {
+    color: rgb(80, 48, 26);
+}
+
+.container4 p {
+    color: rgb(80, 48, 26);
+    font-size: 20px;
+}
+
+#kyb {
+    height: 200px;
+    width: 200px;
+}
